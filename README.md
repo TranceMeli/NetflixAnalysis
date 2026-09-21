@@ -2,6 +2,8 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-orange?style=for-the-badge)
+
 
 Ein interaktives Power BI Dashboard zur Analyse des Netflix-Katalogs: Länder, Genres, Regisseure und Altersfreigaben von Filmen und Serien.
 
